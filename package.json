@@ -1,0 +1,17 @@
+{
+  "name": "kanplan",
+  "version": "1.0.0",
+  "description": "a project planner using kanban boards",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001bserver.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "project",
+    "plan",
+    "kanban",
+    "todo"
+  ],
+  "author": "Will Garrett",
+  "license": "ISC"
+}
